@@ -3,7 +3,7 @@
   "version": "1.0.4",
   "description": "NodeJs SDK for showapi interface",
   "homepage": "www.showapi.com",
-  "repository": "bluedarker@gmail.com/showapi-sdk",
+  "repository": "https://github.com/bluedarker/ShowAPI-Nodejs-SDK",
   "author": {
     "name": "Bluespring",
     "email": "bluedarker@gmail.com",
