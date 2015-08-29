@@ -6,7 +6,7 @@
 var assert = require('assert');
 var showapiSdk = require('./lib');
 
-//设置你测试用的appId和secret,n
+//设置你测试用的appId和secret,img
 var appId='';
 var secret='';
 var img='';
